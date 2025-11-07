@@ -1,0 +1,4 @@
+Dear Diary,
+Today I learned Python file handling!
+It's really useful.
+I can't wait to learn more!

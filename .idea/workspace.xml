@@ -1,31 +1,239 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="13f79511-a9eb-40f5-8637-3ee4f99c29aa" name="Changes" comment="" />
+    <list default="true" id="13f79511-a9eb-40f5-8637-3ee4f99c29aa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Python_Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datatypes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/tests/test_saucedemo.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="338TvWzqo3lPxB7sZUKSiV0o39v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python docs.mydocutil.executor": "Run",
+    "Python tests.Doctests in doc_demo.executor": "Run",
+    "Python tests.pytest for Selenium_Python.Appium.first.TestAppium.executor": "Run",
+    "Python tests.pytest for Selenium_Python.Grid.test_saucelemo_firefox_grid.executor": "Run",
+    "Python tests.pytest for Selenium_Python.Modular_Framework.test_saucelabs.TestLoginModule.test_empty_username.executor": "Run",
+    "Python tests.pytest for Selenium_Python.Parameters.test_addition_parameterized.executor": "Run",
+    "Python tests.pytest for Selenium_Python.Parameters.test_is_even_parameterized.executor": "Run",
+    "Python tests.pytest for Selenium_Python.fixture_dependancy.test_user_profile.executor": "Run",
+    "Python tests.pytest for Selenium_Python.markers_basic.test_known_bug.executor": "Run",
+    "Python tests.pytest for Selenium_Python.pytest_demo.test_addition.executor": "Run",
+    "Python tests.pytest for Selenium_Python.pytest_demo.test_subtraction.executor": "Run",
+    "Python tests.pytest for Selenium_Python.pytest_demo.test_uppercase.executor": "Run",
+    "Python tests.pytest for tests.assertions.test_basic_assertions.executor": "Run",
+    "Python tests.pytest for tests.test_saucedemo.TestSauceDemo.test_successful_login.executor": "Run",
+    "Python tests.pytest in first.py.executor": "Run",
+    "Python tests.pytest in fixture_dependancy.py.executor": "Run",
+    "Python tests.pytest in test_saucedemo.py.executor": "Run",
+    "Python tests.pytest in test_saucelabs.py.executor": "Run",
+    "Python.alerts.executor": "Run",
+    "Python.alerts_demo.executor": "Run",
+    "Python.arithmetic.executor": "Run",
+    "Python.basic_locators.executor": "Run",
+    "Python.broken_links.executor": "Run",
+    "Python.browsers.executor": "Run",
+    "Python.car_demo.executor": "Run",
+    "Python.create_data (1).executor": "Run",
+    "Python.create_data.executor": "Run",
+    "Python.create_test_data.executor": "Run",
+    "Python.data_driven_test.executor": "Run",
+    "Python.datatypes.executor": "Run",
+    "Python.doc_attribute.executor": "Run",
+    "Python.doc_demo.executor": "Run",
+    "Python.dog.executor": "Run",
+    "Python.drag_drop.executor": "Run",
+    "Python.excel_demo.executor": "Run",
+    "Python.exception_demo.executor": "Run",
+    "Python.explicit_wait.executor": "Run",
+    "Python.first.executor": "Run",
+    "Python.frame.executor": "Run",
+    "Python.help_demo.executor": "Run",
+    "Python.inheritance_demo.executor": "Run",
+    "Python.list_demo.executor": "Run",
+    "Python.locator_demo.executor": "Run",
+    "Python.locators.executor": "Run",
+    "Python.login.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.methods.executor": "Run",
+    "Python.mouse_hover.executor": "Run",
+    "Python.multiple_inheritance_demo.executor": "Run",
+    "Python.mywindow.executor": "Run",
+    "Python.radio_buttons.executor": "Run",
+    "Python.scroll_demo.executor": "Run",
+    "Python.set_demo.executor": "Run",
+    "Python.simple_file.executor": "Run",
+    "Python.simple_main.executor": "Run",
+    "Python.simple_string.executor": "Run",
+    "Python.suggesstions.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.testing.executor": "Run",
+    "Python.title.executor": "Run",
+    "Python.version.executor": "Run",
+    "Python.webelement_methods.executor": "Run",
+    "Python.webelements_methods.executor": "Run",
+    "Python.window.executor": "Run",
+    "Python.window_demo.executor": "Run",
+    "Python.window_handling.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable",
+    "settings.editor.splitter.proportion": "0.335206",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Python tests.pytest for Selenium_Python.markers_basic.test_known_bug">
+    <configuration name="pytest for Selenium_Python.Parameters.test_addition_parameterized" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_Test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Selenium_Python.Parameters.test_addition_parameterized&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Selenium_Python.Parameters.test_is_even_parameterized" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_Test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Selenium_Python.Parameters.test_is_even_parameterized&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Selenium_Python.fixture_dependancy.test_user_profile" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_Test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Selenium_Python.fixture_dependancy.test_user_profile&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for Selenium_Python.markers_basic.test_known_bug" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_Test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Selenium_Python.markers_basic.test_known_bug&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in fixture_dependancy.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="Python_Test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Selenium_Python/fixture_dependancy.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for Selenium_Python.markers_basic.test_known_bug" />
+        <item itemvalue="Python tests.pytest for Selenium_Python.Parameters.test_addition_parameterized" />
+        <item itemvalue="Python tests.pytest for Selenium_Python.fixture_dependancy.test_user_profile" />
+        <item itemvalue="Python tests.pytest for Selenium_Python.Parameters.test_is_even_parameterized" />
+        <item itemvalue="Python tests.pytest in fixture_dependancy.py" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9c94529fcfe0-JavaScript-PY-252.26199.168" />
         <option value="bundled-python-sdk-b3d66beaba9a-c6efb3732140-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.26199.168" />
       </set>
     </attachedChunks>
@@ -37,11 +245,110 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1758697934207</updated>
-      <workItem from="1758697936433" duration="13000" />
+      <workItem from="1758697936433" duration="5803000" />
+      <workItem from="1759211912956" duration="7385000" />
+      <workItem from="1759297387179" duration="7692000" />
+      <workItem from="1759436021383" duration="14240000" />
+      <workItem from="1759728890127" duration="17863000" />
+      <workItem from="1759914382817" duration="2047000" />
+      <workItem from="1759988876915" duration="7733000" />
+      <workItem from="1760071684961" duration="12057000" />
+      <workItem from="1760337637426" duration="13552000" />
+      <workItem from="1760504587187" duration="13503000" />
+      <workItem from="1760592863556" duration="7190000" />
+      <workItem from="1761541635970" duration="231000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/multiple_inheritance_demo.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/arithmetic.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/arithmetic.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/arithmetic.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Selenium_Python/scroll_demo.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Selenium_Python/pages/login.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Selenium_Python/markers_custom.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_Test$webelement_methods.coverage" NAME="webelement_methods Coverage Results" MODIFIED="1759820328551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python" />
+    <SUITE FILE_PATH="coverage/Python_Test$window.coverage" NAME="window Coverage Results" MODIFIED="1759991216615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python" />
+    <SUITE FILE_PATH="coverage/Python_Test$create_test_data.coverage" NAME="create_test_data Coverage Results" MODIFIED="1760346875528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python/Data_Driven_Framework" />
+    <SUITE FILE_PATH="coverage/Python_Test$pytest_for_Selenium_Python_pytest_demo_test_addition.coverage" NAME="pytest for Selenium_Python.pytest_demo.test_addition Coverage Results" MODIFIED="1760076273177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$mywindow.coverage" NAME="mywindow Coverage Results" MODIFIED="1759991323476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python" />
+    <SUITE FILE_PATH="coverage/Python_Test$create_data__1_.coverage" NAME="create_data (1) Coverage Results" MODIFIED="1760341038992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python/Data_Driven_Framework" />
+    <SUITE FILE_PATH="coverage/Python_Test$create_data.coverage" NAME="create_data Coverage Results" MODIFIED="1760338294745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python/Data_Driven_Framework/test_data" />
+    <SUITE FILE_PATH="coverage/Python_Test$simple_string.coverage" NAME="simple_string Coverage Results" MODIFIED="1759225296227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$pytest_for_Selenium_Python_pytest_demo_test_subtraction.coverage" NAME="pytest for Selenium_Python.pytest_demo.test_subtraction Coverage Results" MODIFIED="1760076229425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$pytest_for_tests_test_saucedemo_TestSauceDemo_test_successful_login.coverage" NAME="pytest for tests.test_saucedemo.TestSauceDemo.test_successful_login Coverage Results" MODIFIED="1760435203824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$Doctests_in_doc_demo.coverage" NAME="Doctests in doc_demo Coverage Results" MODIFIED="1759310758305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$doc_demo.coverage" NAME="doc_demo Coverage Results" MODIFIED="1759474083546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$alerts.coverage" NAME="alerts Coverage Results" MODIFIED="1759994670833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python" />
+    <SUITE FILE_PATH="coverage/Python_Test$datatypes.coverage" NAME="datatypes Coverage Results" MODIFIED="1758705305961" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$set_demo.coverage" NAME="set_demo Coverage Results" MODIFIED="1759213365647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$locator_demo.coverage" NAME="locator_demo Coverage Results" MODIFIED="1759816209163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python" />
+    <SUITE FILE_PATH="coverage/Python_Test$doc_attribute.coverage" NAME="doc_attribute Coverage Results" MODIFIED="1759490103917" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$login.coverage" NAME="login Coverage Results" MODIFIED="1760435213865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python/pages" />
+    <SUITE FILE_PATH="coverage/Python_Test$pytest_for_Selenium_Python_Grid_test_saucelemo_firefox_grid.coverage" NAME="pytest for Selenium_Python.Grid.test_saucelemo_firefox_grid Coverage Results" MODIFIED="1760512311777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$exception_demo.coverage" NAME="exception_demo Coverage Results" MODIFIED="1759313216662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$excel_demo.coverage" NAME="excel_demo Coverage Results" MODIFIED="1760341482584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python/Data_Driven_Framework" />
+    <SUITE FILE_PATH="coverage/Python_Test$dog.coverage" NAME="dog Coverage Results" MODIFIED="1759299573404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$multiple_inheritance_demo.coverage" NAME="multiple_inheritance_demo Coverage Results" MODIFIED="1759478131480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$scroll_demo.coverage" NAME="scroll_demo Coverage Results" MODIFIED="1759828885456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python" />
+    <SUITE FILE_PATH="coverage/Python_Test$list_demo.coverage" NAME="list_demo Coverage Results" MODIFIED="1759212022258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$data_driven_test.coverage" NAME="data_driven_test Coverage Results" MODIFIED="1760347042032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python/Data_Driven_Framework" />
+    <SUITE FILE_PATH="coverage/Python_Test$pytest_in_test_saucedemo_py.coverage" NAME="pytest in test_saucedemo.py Coverage Results" MODIFIED="1760431854758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$help_demo.coverage" NAME="help_demo Coverage Results" MODIFIED="1759489766959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$test.coverage" NAME="test Coverage Results" MODIFIED="1758698135644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$arithmetic.coverage" NAME="arithmetic Coverage Results" MODIFIED="1759478338287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$simple_main.coverage" NAME="simple_main Coverage Results" MODIFIED="1759225885257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$pytest_in_first_py.coverage" NAME="pytest in first.py Coverage Results" MODIFIED="1760517096301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$pytest_in_test_saucelabs_py.coverage" NAME="pytest in test_saucelabs.py Coverage Results" MODIFIED="1760505272556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$title.coverage" NAME="title Coverage Results" MODIFIED="1759816196416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python" />
+    <SUITE FILE_PATH="coverage/Python_Test$main.coverage" NAME="main Coverage Results" MODIFIED="1758697990491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$inheritance_demo.coverage" NAME="inheritance_demo Coverage Results" MODIFIED="1759300598786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$first.coverage" NAME="first Coverage Results" MODIFIED="1759735164319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python" />
+    <SUITE FILE_PATH="coverage/Python_Test$window_demo.coverage" NAME="window_demo Coverage Results" MODIFIED="1759914969239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python" />
+    <SUITE FILE_PATH="coverage/Python_Test$pytest_for_Selenium_Python_Appium_first_TestAppium.coverage" NAME="pytest for Selenium_Python.Appium.first.TestAppium Coverage Results" MODIFIED="1760560925006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$car_demo.coverage" NAME="car_demo Coverage Results" MODIFIED="1759300209310" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$locators.coverage" NAME="locators Coverage Results" MODIFIED="1759818831924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python" />
+    <SUITE FILE_PATH="coverage/Python_Test$frame.coverage" NAME="frame Coverage Results" MODIFIED="1759992605598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Selenium_Python" />
+    <SUITE FILE_PATH="coverage/Python_Test$pytest_for_Selenium_Python_pytest_demo_test_uppercase.coverage" NAME="pytest for Selenium_Python.pytest_demo.test_uppercase Coverage Results" MODIFIED="1760076307584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$pytest_for_Selenium_Python_Modular_Framework_test_saucelabs_TestLoginModule_test_empty_username.coverage" NAME="pytest for Selenium_Python.Modular_Framework.test_saucelabs.TestLoginModule.test_empty_username Coverage Results" MODIFIED="1760518853487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_Test$simple_file.coverage" NAME="simple_file Coverage Results" MODIFIED="1759226354180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

@@ -1,0 +1,43 @@
+Simple Multiply Documentation 
+
+============================= 
+
+ 
+
+Welcome to the Simple Multiply program documentation. 
+
+ 
+
+Quick Example 
+
+------------- 
+
+ 
+
+.. code-block:: python 
+
+ 
+
+   from src.simple_multiply import multiply 
+
+    
+
+   result = multiply(5, 3) 
+
+   print(result)  # Output: 15.0 
+
+ 
+
+API Reference 
+
+------------- 
+
+ 
+
+.. automodule:: src.simple_multiply 
+
+   :members: 
+
+   :undoc-members: 
+
+   :show-inheritance: 
