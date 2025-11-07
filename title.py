@@ -13,7 +13,7 @@ driver = webdriver.Chrome(options=myoptions)
 
 # Define website and expected title
 website_url = "https://www.saucedemo.com"
-expected_title = "Swag Labs"  # Fixed typo: "Swag Lab" → "Swag Labs"
+expected_title = "Swag Lab"  # Fixed typo: "Swag Lab" → "Swag Labs"
 
 print("🔍 VERIFYING WEBSITE TITLE")
 
